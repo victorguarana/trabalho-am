@@ -80,3 +80,10 @@ Colab: https://drive.google.com/drive/u/1/folders/1OV5JBC63U0qva1UwGyod4l8hI1wdl
 <img src="https://github.com/victorguarana/trabalho-am/assets/65605919/ca40c70f-fcbc-4628-9be7-720ca412e0b8" width="2000px" />
 </div>
 
+### Análise de Médias
+
+<div align="center">
+<img src="https://github.com/victorguarana/trabalho-am/assets/65605919/2064b237-a916-4ab0-8d1b-e7f60b782c45" width="2000px" />
+</div>
+
+
